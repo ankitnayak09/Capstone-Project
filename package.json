@@ -1,9 +1,10 @@
 {
   "name": "dashboard",
-  "homepage": "https://ankitnayak09.github.io/Capstone-Project"
+  "homepage": "https://ankitnayak09.github.io/Capstone-Project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+        "gh-pages": "^5.0.0",
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
     "@iconscout/react-unicons": "^1.1.6",
